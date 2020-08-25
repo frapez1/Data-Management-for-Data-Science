@@ -2,7 +2,7 @@
 
 This repository contains the two HWs of the [Data Management for Data Science](http://www.dis.uniroma1.it/~rosati/dmds/) course of the master's degree in Data Science. These are HWs carried out in groups of 2 people.
 
-This is the [dataset](//github.com/JeffSackmann/tennis_atp) that we used, but only the for 2019 and 2020.
+This is the [dataset](//github.com/JeffSackmann/tennis_atp) we used, but only the for 2019 and 2020.
 
 ## HW-1 (SQL)
 
@@ -13,3 +13,10 @@ Keywords:
   * MySQL
 
 
+## HW-2 (MongoDB)
+
+In part based on what we have done in the previous hw we have to write some queries with a NoSQL tool.
+
+Keywords:
+  * MongoDB
+  * Studio 3T
