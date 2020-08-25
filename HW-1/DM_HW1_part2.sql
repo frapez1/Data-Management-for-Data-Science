@@ -1,4 +1,4 @@
-/*Data Management For Data Science 2020 Homework 2 Script
+/*Data Management For Data Science 2020 Homework 1 Part 2 Script
 Authors: Francesco Pezone 1913202 & Sabriye Ela Esme 1912580
 Data Source: https://github.com/JeffSackmann/tennis_atp
 ***********************************************************/
