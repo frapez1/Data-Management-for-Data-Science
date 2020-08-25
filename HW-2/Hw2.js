@@ -1,7 +1,7 @@
-////// DM HW3 MONGODB SCRIPT
+////// DM HW2 MONGODB SCRIPT
 ////// PART 1 REWRITING OF THE QUERIES:
 ///1)
-use hw3;
+use hw2;
 db.getCollection("atp_matches_2018").aggregate(
     [
         { 
